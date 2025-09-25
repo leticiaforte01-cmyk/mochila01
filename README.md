@@ -80,6 +80,7 @@ Cada célula matriz[i][w] representa o valor máximo possível usando os primeir
 🔹 Retorna o valor máximo possível que pode ser carregado com todos os itens e a capacidade total da mochila.
 
 
+
 📌Importância do Código:
 
 Ensina lógica de otimização e programação dinâmica, fundamentais em algoritmos.
